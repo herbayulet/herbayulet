@@ -1,6 +1,6 @@
 # Hi there, I'm Herbayu - aka [herbayulet] 👋
 ## About me:
-- 🔭 I’m freash graduate from [Alterra Academy](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m fresh graduate from [Alterra Academy](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 I’m currently learning Javascript and React JS
 - 👯 I’m looking to collaborate as Frontend Develepoer
 - 🤔 I’m looking for suggest for Frontend Developer (React/NEXT)
@@ -13,7 +13,6 @@
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
  #### 2. [MAN 13 Jakarta](https://www.man13-jkt.sch.id/) | IPS | South Jakarta `2011-2014`
-   - Chief of Rohkris
 
 ## Work Experience:
 #### 1. [Praxis Academy](https://www.instagram.com/praxisacademy/) | Frontend Developer | Jogjakarta `Jan'2022 - Mei'2022`
