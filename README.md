@@ -28,10 +28,10 @@ In this project I use some technologies such as Node Js, express Js, PostgreSql,
    - Make Worksheet of Financial Statements and Make Working Paper of Account from Financial Statements with the procedure audit
    - Make a draft report
    - Client's core business:
-  • Construction Mining Company
-  • Retail Company
-  • Telecomunication Company
-  • NGO
+  i Construction Mining Company
+  ii Retail Company
+  iii Telecomunication Company
+  iv NGO
 ---
 
 ### Languages and Tools:
