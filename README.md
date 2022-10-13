@@ -27,7 +27,7 @@ In this project I use some technologies such as Node Js, express Js, PostgreSql,
    - Analyze Process walkhtrough about the SOP and inquiry to the Manager Client or Staff
    - Make Worksheet of Financial Statements and Make Working Paper of Account from Financial Statements with the procedure audit
    - Make a draft report
-   - Client's core business:
+   Markup : - Client's core business:
   i Construction Mining Company
   ii Retail Company
   iii Telecomunication Company
