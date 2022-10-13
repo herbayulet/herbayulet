@@ -1,16 +1,58 @@
-### Hi there 👋
+# Hi there, I'm Herbayu - aka [herbayulet] 👋
+## About me:
+- 🔭 I’m freash graduate from [Alterra Academy](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🌱 I’m currently learning Javascript and React JS
+- 👯 I’m looking to collaborate as Frontend Develepoer
+- 🤔 I’m looking for suggest for Frontend Developer (React/NEXT)
+- 💬 Ask me about anything
+- 📫 How to reach me: akuherbayu@gmail.com
 
-<!--
-**herbayulet/herbayulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
+   - Asistant FORDIS Akuntansi
+   - Asistant Lead Bookfair AK 2015-2016
+ #### 2. [MAN 13 Jakarta](https://www.man13-jkt.sch.id/) | IPS | South Jakarta `2011-2014`
+   - Chief of Rohkris
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience:
+#### 1. [Praxis Academy](https://www.instagram.com/praxisacademy/) | Frontend Developer | Jogjakarta `Jan'2022 - Mei'2022`
+   - DIGITREN is web and mobile apps to manage school system it has features online payment santri, manage learning of pesantren final report admin pondok about the pondok, etc. On this project me as a Frontend Dev, only slicing design Figma to Code use React JS and React-Bootstrap
+In this project I use some technologies such as Node Js, express Js, PostgreSql, Jquery, and React Native
+#### 1. [PT. Iforte Solusi Infotek](https://www.iforte.id/) | Cost Control | Jakarta `Jan'2021 - Jul'2021`
+   - Create Master Data iForter (Assets or Project)
+   - Responsible to Monitoring PR/PO Outstanding in system and inquiry to user about the PR/PO
+   - Analyze the standard Cost of Material Item
+#### 2. [KAP Mirawati Sensi Idris (Moore Stephens](https://www.moore-global.com/locations/mirawati-sensi-idris-jakarta) | Auditor | Jakarta `Aug'2019 - Jul 2020`
+   - Make Pleminary analytical review Audit
+   - Analyze Process walkhtrough about the SOP and inquiry to the Manager Client or Staff
+   - Make Worksheet of Financial Statements and Make Working Paper of Account from Financial Statements with the procedure audit
+---
+
+### Languages and Tools:
+
+[<img align="left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Excel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
+---
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/sayaherbayu#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sayaherbayu#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/herbayulet12#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/herbayulet12#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/herbayuuw#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/herbayuuw#gh-dark-mode-only)
+
+
+
+[webdev]: https://github.com/herbayulet
