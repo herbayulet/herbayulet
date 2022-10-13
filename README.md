@@ -20,7 +20,7 @@
 In this project I use some technologies such as React JS and Bootstrap
 #### 2. [PT. Iforte Solusi Infotek](https://www.iforte.id/) | Cost Control | Jakarta `Jan'2021 - Jul'2021`
    - Create Master Data (Project or Assets Iforte) by Request Others Department and make the report every week 
-   - Monitoring PR/PO on system and determine the PR PO and qualify it to be included in OPEX or CAPEX and conduct an inquiry to the user who submitted     it 
+   - Monitoring Purchase Request/Purchase Order on system and determine the PR PO and qualify it to be included in OPEX or CAPEX and conduct an inquiry to the user who submitted     it 
    - Monitoring PO that are outstanding in the system and conducting inquiries to users, and recaps related to the PO regarding their nominal values ​​and making reports every week
 #### 3. [KAP Mirawati Sensi Idris (Moore Stephens](https://www.moore-global.com/locations/mirawati-sensi-idris-jakarta) | Auditor | Jakarta `Aug'2019 - Jul 2020`
    - Make Pleminary analytical review Audit
