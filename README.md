@@ -19,13 +19,19 @@
    - DIGITREN is web and mobile apps to manage school system it has features online payment santri, manage learning of pesantren final report admin pondok about the pondok, etc. On this project me as a Frontend Dev, only slicing design Figma to Code use React JS and React-Bootstrap
 In this project I use some technologies such as Node Js, express Js, PostgreSql, Jquery, and React Native
 #### 1. [PT. Iforte Solusi Infotek](https://www.iforte.id/) | Cost Control | Jakarta `Jan'2021 - Jul'2021`
-   - Create Master Data iForter (Assets or Project)
-   - Responsible to Monitoring PR/PO Outstanding in system and inquiry to user about the PR/PO
-   - Analyze the standard Cost of Material Item
+   - Create Master Data (Project or Assets Iforte) by Request Others Department and make the report every week 
+   - Monitoring PR/PO on system and determine the PR PO and qualify it to be included in OPEX or CAPEX and conduct an inquiry to the user who submitted     it 
+   - Monitoring PO that are outstanding in the system and conducting inquiries to users, and recaps related to the PO regarding their nominal values ​​and making reports every week
 #### 2. [KAP Mirawati Sensi Idris (Moore Stephens](https://www.moore-global.com/locations/mirawati-sensi-idris-jakarta) | Auditor | Jakarta `Aug'2019 - Jul 2020`
    - Make Pleminary analytical review Audit
    - Analyze Process walkhtrough about the SOP and inquiry to the Manager Client or Staff
    - Make Worksheet of Financial Statements and Make Working Paper of Account from Financial Statements with the procedure audit
+   - Make a draft report
+   - Client's core business:
+ - Construction Mining Company
+ - Retail Company
+ - Telecomunication Company
+ - NGO
 ---
 
 ### Languages and Tools:
