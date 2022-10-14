@@ -10,8 +10,8 @@
 ## Education:
 
 #### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Developer | Depok `2022,Aug-Oct`
-     In 3 Months I learned to be a Frontend Developer, the key the topics I studied ar as belows:
-   - Learn About as Front End such as : HTML, CSS, Javascript, React JS, Next JS
+     In 3 Months I learned to be a Frontend Engineering, the key the topics I studied ar as belows:
+   - Learn About as Frontend such as : Fundamental Programming, Algorithm and Data structures HTML, CSS, Javascript, React JS, Next JS
    - Make Capstone Project: Rhozok (sebuah platform untuk menghubungkan masyarakat dengan pengepul untuk menjual barang yang tidak terpakai)
    - Make Portfolio likes:
    1. News App
@@ -20,6 +20,7 @@
    4. Ecommerce App
    5. Management System
 #### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
+     GPA 3.16
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
 
