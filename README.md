@@ -10,6 +10,7 @@
 ## Education:
 
 #### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Developer | Depok `2022,Aug-Oct`
+In 3 Months i learned to be a Frontend Developer, the key the topics I studied ar as belows:
    - Learn About as Front End such as : HTML, CSS, Javascript, React JS, Next JS
    - Make Capstone Project: Rhozok (sebuah platform untuk menghubungkan masyarakat dengan pengepul untuk menjual barang yang tidak terpakai)
    - Make Portfolio likes:
