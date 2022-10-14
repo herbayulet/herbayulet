@@ -22,7 +22,6 @@
 #### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
-#### 3. [MAN 13 Jakarta](https://www.man13-jkt.sch.id/) | IPA | South Jakarta `2011-2014`
 
 ## Work Experience:
 #### 1. [Praxis Academy](https://www.instagram.com/praxisacademy/) | Frontend Developer | Jogjakarta `Jan'2022 - Mei'2022`
