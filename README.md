@@ -45,12 +45,12 @@ In this project I use some technologies such as React JS and Bootstrap
 
 ### Languages and Tools:
 
-[<img align="left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
