@@ -9,10 +9,19 @@
 
 ## Education:
 
-#### 1. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
+#### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Developer | Depok `2022,Aug - 2022,Oct`
+   - Learn About as Front End such as : HTML, CSS, Javascript, React JS, Next JS
+   - Make Capstone Project: Rhozok (sebuah platform untuk menghubungkan masyarakat dengan pengepul untuk menjual barang yang tidak terpakai)
+   - Make Portfolio likes:
+   1. News App
+   2. Movies App
+   3. Todos App
+   4. Ecommerce App
+   5. Management System
+#### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
- #### 2. [MAN 13 Jakarta](https://www.man13-jkt.sch.id/) | IPA | South Jakarta `2011-2014`
+#### 3. [MAN 13 Jakarta](https://www.man13-jkt.sch.id/) | IPA | South Jakarta `2011-2014`
 
 ## Work Experience:
 #### 1. [Praxis Academy](https://www.instagram.com/praxisacademy/) | Frontend Developer | Jogjakarta `Jan'2022 - Mei'2022`
