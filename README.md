@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate as Frontend Develepoer
 - 🤔 I’m looking for suggest for Frontend Developer (React/Next)
 - 💬 Ask me about anything
-- 📫 How to reach me: akuherbayu@gmail.com
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Herbayu_Eko_Nugroho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbayulet12/) or email me at [![Linkedin Badge](https://img.shields.io/badge/-akuherbayu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/herbayulet12/)
 - ⚡ Fun fact I've Experience as an Auditor and Cost Control
 
 ***Currently(and future) Learning:***
