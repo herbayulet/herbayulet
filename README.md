@@ -73,25 +73,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <a href="https://twitter.com/sayaherbayu" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="herbayu" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/herbayulet12" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="herbayu" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/herbayuuw" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="herbayu" height="30" width="30" />
-  </a>
-</p>
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbayulet&layout=compact&theme=tokyonight)](https://github.com/herbayulet)
-
-
 ### Connect with me:
 
 <div id="badges" align="center">
@@ -108,6 +89,14 @@
 <div id="profile-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=herbayulet&style=flat-square&color=blue" alt="Profile-counter"/>
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbayulet&layout=compact&theme=tokyonight)](https://github.com/herbayulet)
+
+
 
 ## Education:
 
