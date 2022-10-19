@@ -10,23 +10,6 @@
 - 📫 How to reach me: akuherbayu@gmail.com
 - ⚡ Fun fact I've Experience as an Auditor and Internal Control
 
-## Education:
-
-#### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Engineering | Depok `Aug-Oct'2022`
-     In 3 Months I learned to be a Frontend Engineering, the key the topics I studied ar as belows:
-   - Learn About as Frontend such as : Fundamental Programming, Algorithm and Data structures HTML, CSS, Javascript, React JS, Next JS
-   - Make Capstone Project: Rhozok (A platform for connecting people with junkstation to sell goods unused)
-   - Make Portfolio likes:
-   1. News App
-   2. Movies App
-   3. Todos App
-   4. Ecommerce App
-   5. Management System
-#### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
-     GPA 3.16
-   - Asistant FORDIS Akuntansi
-   - Asistant Lead Bookfair AK 2015-2016
-
 ***Currently(and future) Learning:***
 <table>
   <tr>
@@ -91,19 +74,35 @@
 <br/>
 
 <p align="center">
-  <a href="https://twitter.com/agusdwis17" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="agusdwis17" height="30" width="30" />
+  <a href="https://twitter.com/sayaherbayu" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="herbayu" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/agusdwis17" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agusdwis17" height="30" width="30" />
+  <a href="https://linkedin.com/in/herbayulet12" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="herbayu" height="30" width="30" />
   </a>
-  <a href="https://fb.com/agusdwis17" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="agusdwis" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/agsdws" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agsdws" height="30" width="30" />
+  <a href="https://instagram.com/herbayuuw" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="herbayu" height="30" width="30" />
   </a>
 </p>
+
+## Education:
+
+#### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Engineering | Depok `Aug-Oct'2022`
+     In 3 Months I learned to be a Frontend Engineering, the key the topics I studied ar as belows:
+   - Learn About as Frontend such as : Fundamental Programming, Algorithm and Data structures HTML, CSS, Javascript, React JS, Next JS
+   - Make Capstone Project: Rhozok (A platform for connecting people with junkstation to sell goods unused)
+   - Make Portfolio likes:
+   1. News App
+   2. Movies App
+   3. Todos App
+   4. Ecommerce App
+   5. Management System
+#### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
+     GPA 3.16
+   - Asistant FORDIS Akuntansi
+   - Asistant Lead Bookfair AK 2015-2016
+
+
 
 <!-- ### Languages and Tools:
 
