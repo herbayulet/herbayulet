@@ -10,7 +10,7 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Herbayu_Eko_Nugroho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbayulet12/) or email me at [![Linkedin Badge](https://img.shields.io/badge/-akuherbayu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/herbayulet12/)
 - ⚡ Fun fact I've Experience as an Auditor and Cost Control
 
-***Currently(and future) Learning:***
+***Currently (and future) Learning:***
 <table>
   <tr>
     <td class="border_l border_r border_t border_b selected">
@@ -72,8 +72,6 @@
 
 <br/>
 <br/>
-
-### Connect with me:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbayulet12/">
