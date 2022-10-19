@@ -120,7 +120,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakafantino&layout=compact&theme=tokyonight)](https://github.com/herbayulet)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbayulet&layout=compact&theme=tokyonight)](https://github.com/herbayulet)
 
 ---
 ### Connect with me:
