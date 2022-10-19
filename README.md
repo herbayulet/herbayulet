@@ -2,13 +2,13 @@
 <p align="center" style="font-style: italic;">"Just a simple man who is starting to love coding."</p>
 
 ## About me:
-- 🔭 I’m graduated from [Alterra Academy](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m graduated from [Alterra Academy](https://academy.alterra.id/)
 - 🌱 I’m currently learning Javascript and React JS
 - 👯 I’m looking to collaborate as Frontend Develepoer
-- 🤔 I’m looking for suggest for Frontend Developer (React/NEXT)
+- 🤔 I’m looking for suggest for Frontend Developer (React/Next)
 - 💬 Ask me about anything
 - 📫 How to reach me: akuherbayu@gmail.com
-- ⚡ Fun fact I've Experience as an Auditor and Internal Control
+- ⚡ Fun fact I've Experience as an Auditor and Cost Control
 
 ***Currently(and future) Learning:***
 <table>
