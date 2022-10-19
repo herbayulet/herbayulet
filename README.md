@@ -11,7 +11,7 @@
 - ⚡ Fun fact I've Experience as an Auditor and Cost Control
 
 ***Currently (and future) Learning:***
-<table align="center">
+<table>
   <tr>
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<table align="center">
+<table>
   <tr>
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
@@ -73,7 +73,9 @@
 <br/>
 <br/>
 
-<div id="badges" align="center">
+### :Connect With Me :
+
+<div id="badges">
   <a href="https://www.linkedin.com/in/herbayulet12/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -90,9 +92,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbayu&layout=compact&theme=tokyonight)](https://github.com/herbayulet)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
