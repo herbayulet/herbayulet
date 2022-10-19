@@ -90,7 +90,7 @@
   <img src="https://komarev.com/ghpvc/?username=herbayulet&style=flat-square&color=blue" alt="Profile-counter"/>
 </div>
 
-### fire: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -113,9 +113,6 @@
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
 
-
-<br />
-<br />
 
 
 
