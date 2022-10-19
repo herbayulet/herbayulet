@@ -125,14 +125,20 @@
 ---
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/sayaherbayu#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/sayaherbayu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/herbayulet12#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/herbayulet12#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/herbayuuw#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/herbayuuw#gh-dark-mode-only) -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/herbayulet12/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/herbayuuw/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/sayaherbayu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="profile-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=herbayulet&style=flat-square&color=blue" alt="Profile-counter"/>
+</div>
 
 
 
