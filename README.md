@@ -85,37 +85,6 @@
   </a>
 </p>
 
-## Education:
-
-#### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Engineering | Depok `Aug-Oct'2022`
-     In 3 Months I learned to be a Frontend Engineering, the key the topics I studied ar as belows:
-   - Learn About as Frontend such as : Fundamental Programming, Algorithm and Data structures HTML, CSS, Javascript, React JS, Next JS
-   - Make Capstone Project: Rhozok (A platform for connecting people with junkstation to sell goods unused)
-   - Make Portfolio likes:
-   1. News App
-   2. Movies App
-   3. Todos App
-   4. Ecommerce App
-   5. Management System
-#### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
-     GPA 3.16
-   - Asistant FORDIS Akuntansi
-   - Asistant Lead Bookfair AK 2015-2016
-
-
-
- ### Languages and Tools:
-
-[<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
@@ -139,6 +108,29 @@
 <div id="profile-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=herbayulet&style=flat-square&color=blue" alt="Profile-counter"/>
 </div>
+
+## Education:
+
+#### 1. [Alterra Academy](https://academy.alterra.id/) | Frontend Engineering | Depok `Aug-Oct'2022`
+     In 3 Months I learned to be a Frontend Engineering, the key the topics I studied ar as belows:
+   - Learn About as Frontend such as : Fundamental Programming, Algorithm and Data structures HTML, CSS, Javascript, React JS, Next JS
+   - Make Capstone Project: Rhozok (A platform for connecting people with junkstation to sell goods unused)
+   - Make Portfolio likes:
+   1. News App
+   2. Movies App
+   3. Todos App
+   4. Ecommerce App
+   5. Management System
+#### 2. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
+     GPA 3.16
+   - Asistant FORDIS Akuntansi
+   - Asistant Lead Bookfair AK 2015-2016
+
+
+<br />
+<br />
+
+
 
 
 
