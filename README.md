@@ -104,7 +104,7 @@
 
 
 
-<!-- ### Languages and Tools:
+ ### Languages and Tools:
 
 [<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
@@ -116,7 +116,7 @@
 <br />
 <br />
 
-### fire: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
