@@ -37,18 +37,6 @@
       </div>
     </td>
   </tr>
-  
-  <tr>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
-  </tr>
 </table>
 
 <table>
@@ -67,6 +55,7 @@
     <div class="wrap">
       <div style="margin: 10px 5px;">
         <p align="left">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
           <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -75,20 +64,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
 <!--           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  -->
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<!--           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
         </p>
       </div>
     </div>
@@ -146,7 +121,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
@@ -168,7 +143,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/herbayulet12#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/herbayuuw#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/herbayuuw#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/herbayuuw#gh-dark-mode-only) -->
 
 
 
