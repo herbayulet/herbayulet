@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Herbayu E. Nugroho</h1>
 <p align="center" style="font-style: italic;">"Just a simple man who is starting to love coding."</p>
+
 ## About me:
 - 🔭 I’m graduated from [Alterra Academy](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 I’m currently learning Javascript and React JS
@@ -7,7 +8,7 @@
 - 🤔 I’m looking for suggest for Frontend Developer (React/NEXT)
 - 💬 Ask me about anything
 - 📫 How to reach me: akuherbayu@gmail.com
-- ⚡ Fun fact **I've Experience as an Auditor and Internal Control
+- ⚡ Fun fact I've Experience as an Auditor and Internal Control
 
 ## Education:
 
@@ -91,11 +92,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>  
         </p>
       </div>
     </div>
