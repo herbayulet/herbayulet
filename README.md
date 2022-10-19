@@ -1,4 +1,4 @@
-# Hi there, I'm Herbayu - a.k.a [herbayulet] 👋
+# Hi there, I'm Herbayu 👋
 ## About me:
 - 🔭 I’m graduated from [Alterra Academy](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 I’m currently learning Javascript and React JS
