@@ -116,13 +116,13 @@
 <br />
 <br />
 
-### :fire: My Stats :
+### fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbayulet&layout=compact&theme=tokyonight)](https://github.com/herbayulet)
 
----
+
 ### Connect with me:
 
 <div id="badges" align="center">
@@ -142,4 +142,4 @@
 
 
 
-[webdev]: https://github.com/herbayulet
+
