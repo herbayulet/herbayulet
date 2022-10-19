@@ -27,19 +27,7 @@
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
 
-***Currently(and future) Learning:***_
-<table>
-  <tr>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Programming Language</p>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
+***Currently(and future) Learning:***
 <table>
   <tr>
     <td class="border_l border_r border_t border_b selected">
