@@ -73,7 +73,7 @@
 <br/>
 <br/>
 
-### :Connect With Me :
+### Connect With Me :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/herbayulet12/">
@@ -90,7 +90,7 @@
   <img src="https://komarev.com/ghpvc/?username=herbayulet&style=flat-square&color=blue" alt="Profile-counter"/>
 </div>
 
-### :fire: My Stats :
+### fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=herbayulet&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
