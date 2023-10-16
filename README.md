@@ -3,9 +3,9 @@
 
 ## About me:
 - 🔭 I’m graduated from [Alterra Academy](https://academy.alterra.id/)
-- 🌱 I’m currently learning Javascript and React JS
+- 🌱 I’m currently learning Javascript, Typescript, React JS, Next JS and React Native/Expo
 - 👯 I’m looking to collaborate as Frontend Develepoer
-- 🤔 I’m looking for suggest for Frontend Developer (React/Next)
+- 🤔 I’m looking for suggest for Frontend Developer/Mobile Developer (React/Next/React Native)
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Herbayu_Eko_Nugroho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbayulet12/) or email me at [![Linkedin Badge](https://img.shields.io/badge/-akuherbayu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/herbayulet12/)
 - ⚡ Fun fact I've Experience as an Auditor and Cost Control
