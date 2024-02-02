@@ -2,7 +2,7 @@
 <p align="center" style="font-style: italic;">"Just a simple man who is starting to love coding."</p>
 
 ## About me:
-- 🔭 I’m graduated from [Alterra Academy](https://academy.alterra.id/)
+- 🔭 I’m graduated from [Politeknik Negeri Jakarta, Accounting](https://pnj.ac.id/)
 - 🌱 I’m currently learning Javascript, Typescript, React JS, Next JS and React Native/Expo
 - 👯 I’m looking to collaborate as Frontend Develepoer
 - 🤔 I’m looking for suggest for Frontend Developer/Mobile Developer (React/Next/React Native)
