@@ -100,7 +100,7 @@
 ## Education:
 
 
-#### 1. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok `2014-2018`
+#### 1. [Politeknik Negeri Jakarta](https://www.pnj.ac.id) | Bachelor of Accounting | Depok
      GPA 3.16
    - Asistant FORDIS Akuntansi
    - Asistant Lead Bookfair AK 2015-2016
